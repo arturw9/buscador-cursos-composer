@@ -1,0 +1,16 @@
+{
+    "name": "arturw9/buscador-cursos-composer",
+    "description": "Buscador de cursos, praticando composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "arturw9",
+            "email": "arturw9@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^6.1-BETA1",
+        "symfony/css-selector": "^6.0"
+    }
+}
