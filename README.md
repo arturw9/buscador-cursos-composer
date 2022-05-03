@@ -1,4 +1,3 @@
-# buscador-cursos-composer
+# Documentação do componente
 
-
-ESTUDO SOBRE COMPOSER NO PHP
+Este componente é SUPIMPA!!
